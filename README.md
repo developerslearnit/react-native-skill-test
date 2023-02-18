@@ -2,7 +2,7 @@
 
 This skills test is designed to allow you to showcase your development abilities to us. The test is administered through an online screen sharing session via zoom and will be recorded.
 
-- Candidates will have one hour thirty minutes (1hr 30min) to complete the exercise.
+- Candidates will have forty minutes (40min) to complete the exercise.
 - Google can be used to lookup helpful information as needed.
 - Do not worry if you cannot fully complete the test within the allotted time, the purpose of the test is to allow us to determine skills and to get an insight into how you go about solving the problem.
 
