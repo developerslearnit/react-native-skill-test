@@ -1,4 +1,4 @@
-# Welcome to Lender Tool Kits basic react skills test
+# Welcome to Simplex Business Solutions basic react skills test
 
 This skills test is designed to allow you to showcase your development abilities to us. The test is administered through an online screen sharing session via zoom and will be recorded.
 
