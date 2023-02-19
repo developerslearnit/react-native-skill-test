@@ -16,12 +16,12 @@ Before joining the meeting link provided, please ensure that you have the follow
 
 ## Instructions
 
-step 1.) clone this github repository. This repository contains a very basic react native application.\
-step 2.) Fix any errors that prevent the project from being built and run.\
-step 3.) Add Cart Icon that shows the cart item counts on the right side of app header\
-step 4.) On the main /src/screens/ProductDetails/ProductDetails.js page there is a button. On click of this button using Redux or React Context API, add functionality that adds product item to cart, the item object should have id,productName,price,and quantity\
-step 5.) Create a CartModalScreen within the components folder, the modal should display all items in the cart with the total amount in the bottom of the screen.\
-step 6.) On the newly created CartModalScreen, create a delete function that will remove a cart item and also update the cart total and the item count on the Cart Icon.\
+Step 1. Clone this github repository. This repository contains a very basic react native application.\
+Step 2. Fix any errors that prevent the project from being built and run.\
+Step 3. Add Cart Icon that shows the cart item counts on the right side of app header\
+Step 4. On the main /src/screens/ProductDetails/ProductDetails.js page there is a button. On click of this button using Redux or React Context API, add functionality that adds product item to cart, the item object should have id,productName,price,and quantity\
+Step 5. Create a CartModalScreen within the components folder, the modal should display all items in the cart with the total amount in the bottom of the screen.\
+Step 6. On the newly created CartModalScreen, create a delete function that will remove a cart item and also update the cart total and the item count on the Cart Icon.\
 
 Bonus points will be awarded for:
 
