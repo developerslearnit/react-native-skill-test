@@ -28,3 +28,7 @@ Bonus points will be awarded for:
 - improvements to user experience, styling, and for correcting any obvious errors in wording on the site.
 - adding redux state management.
 - Best practices using Context API
+
+![Screensh0t]([images/my-image.jpg](https://devtechtalks.com/wp-content/uploads/2023/03/building-a-shopping-cart-mobile-app-with-react-native.png))
+
+
