@@ -1,4 +1,4 @@
-import axios from "axios";
+import aixos from "axios";
 import { API_URL } from "../config";
 
 export const AllProducts = async () => {
