@@ -23,6 +23,8 @@ Step 4. On the main /src/screens/ProductDetails/ProductDetails.js page there is 
 Step 5. Create a CartModalScreen within the components folder, the modal should display all items in the cart with the total amount in the bottom of the screen.\
 Step 6. On the newly created CartModalScreen, create a delete function that will remove a cart item and also update the cart total and the item count on the Cart Icon.\
 
+Share your Code Editor and your emulator while you do all these.
+
 Bonus points will be awarded for:
 
 - improvements to user experience, styling, and for correcting any obvious errors in wording on the site.
