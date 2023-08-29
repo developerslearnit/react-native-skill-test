@@ -20,7 +20,7 @@ Step 2. Fix any errors that prevent the project from being built and run.\
 Step 3. Add Cart Icon that shows the cart item counts on the right side of app header\
 Step 4. On the main /src/screens/ProductDetails/ProductDetails.js page there is a button. On click of this button using React Context API, add functionality that adds product item to cart, the item object should have id,productName,price,and quantity\
 Step 5. Create a CartModalScreen within the components folder, the modal should display all items in the cart with the total amount in the bottom of the screen.\
-Step 6. On the newly created CartModalScreen, create a delete function that will remove a cart item and also update the cart total and the item count on the Cart Icon.\
+Step 6. On the newly created CartModalScreen, create a delete function that will remove a cart item and also update the cart total and the item count on the Cart Icon.
 
 Share your Code Editor and your emulator while you do all these.
 
