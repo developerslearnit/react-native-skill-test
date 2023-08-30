@@ -7,7 +7,7 @@ This skills test is designed to allow you to showcase your development abilities
 
 ## Prerequisites
 
-Before joining the meeting link provided, please ensure that you have the following tools installed:
+Before joining the meeting link provided, please ensure that you have the following tools installed: 
 
 - Visual Studio Code
 - Node JS version 16+
