@@ -1,13 +1,13 @@
-# Welcome to Simplex Business Solutions basic react skills test
+# Simplex Business Solutions basic React Native skills test
 
-This skills test is designed to allow you to showcase your development abilities to us. The test is administered through an online screen sharing session via zoom and will be recorded.
+This skills test is designed to allow you to showcase your development abilities to us. The test is administered through an online screen sharing session via Zoom and will be recorded.
 
-- Candidates will have forty minutes (40min) to complete the exercise.
-- Do not worry if you cannot fully complete the test within the allotted time, the purpose of the test is to allow us to determine skills and to get an insight into how you go about solving the problem.
+- Candidates will have forty minutes (1 hour) to complete the exercise.
+- Do not worry if you cannot fully complete the test within the allotted time, the purpose of the test is to allow us to determine your skills and to get an insight into how you go about solving the problem.
 
 ## Prerequisites
 
-Before joining the meeting link provided, please ensure that you have the following tools installed.
+Before joining the meeting link provided, please ensure that you have the following tools installed:
 
 - Visual Studio Code
 - Node JS version 16+
@@ -15,14 +15,14 @@ Before joining the meeting link provided, please ensure that you have the follow
 
 ## Instructions
 
-Step 1. Clone this github repository. This repository contains a very basic react native application.\
+Step 1. Clone this github repository. This repository contains a very basic e-commerce react native application.\
 Step 2. Fix any errors that prevent the project from being built and run.\
 Step 3. Add Cart Icon that shows the cart item counts on the right side of app header\
-Step 4. On the main /src/screens/ProductDetails/ProductDetails.js page there is a button. On click of this button using React Context API, add functionality that adds product item to cart, the item object should have id,productName,price,and quantity\
+Step 4. On the main /src/screens/ProductDetails/ProductDetails.js page there is a button. On click of this button using React Context API, add functionality that adds a product item to cart, the item object should have the following attributes: id,productName,price,and quantity\
 Step 5. Create a CartModalScreen within the components folder, the modal should display all items in the cart with the total amount in the bottom of the screen.\
 Step 6. On the newly created CartModalScreen, create a delete function that will remove a cart item and also update the cart total and the item count on the Cart Icon.
 
-Share your Code Editor and your emulator while you do all these.
+Share your Code Editor and your emulator while you code all these functionalities.
 
 Bonus points will be awarded for:
 
@@ -30,6 +30,5 @@ Bonus points will be awarded for:
 - adding redux state management.
 - Best practices using Context API
 
-![Screenshot](https://devtechtalks.com/wp-content/uploads/2023/03/building-a-shopping-cart-mobile-app-with-react-native.png)
 
 
